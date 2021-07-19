@@ -29,6 +29,19 @@ testing
 base
 small
 shakes
-
+terrible
+substandard
+inferior
+inadequate
+unacceptable
+deficient
+imperfect
+awful
+severe
+trouble
+troublesome
+dreadful
+grim
+regrettable
 
 
